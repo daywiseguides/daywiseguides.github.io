@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://daywiseguides.github.io/sitemap.xml
